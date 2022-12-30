@@ -1,0 +1,14 @@
+.bg-img {
+    
+    background-image: url(bg-img.jpg);
+
+}
+
+.text-color {
+    color: rgb(93, 90, 90);
+}
+
+.card-size {
+    width: 100%;
+    height: 225px;
+}
